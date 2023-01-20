@@ -4,8 +4,6 @@ Set Linux as router in one command. Able to provide Internet, or create WiFi hot
 
 It wraps `iptables`, `dnsmasq` etc. stuff. Use in one command, restore in one command or by `control-c` (or even by closing terminal window).
 
-[Linux-Router News & Developer Notes 📰](https://github.com/garywill/linux-router/issues/28) | [More tools and projects 🛠️](https://garywill.github.io) | [🍻 Buy me a coffee ❤️](https://github.com/garywill/receiving/blob/master/receiving_methods.md)
-
 ## Features
 
 Basic features:
@@ -494,16 +492,4 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
-</details>
 
-## Meet developer(s) and become one of them
-
-Visit [**my homepage** 🏡](https://garywill.github.io) to see **more tools and projects** 🛠️.
-
-> [❤️ Buy me a coffee](https://github.com/garywill/receiving/blob/master/receiving_methods.md) , this project took me lots of time! ([❤️ 扫码领红包并打赏一个!](https://github.com/garywill/receiving/blob/master/receiving_methods.md))
-> 
-> 🥂 ( ^\_^) o自自o (^_^ ) 🍻
-
-🤝 Bisides, thank [create_ap](https://github.com/oblique/create_ap) by [oblique](https://github.com/oblique). This script was forked from create\_ap. Now they are quite different. (See `history` branch for how I modified create_ap). 🤝 Also thank those who contributed to that project.
-
-👨‍💻 You can be contributor, too! 🍃 There're some TO-DOs listed, at both [above](#todo) and [in the code file](https://github.com/garywill/linux-router/search?q=TODO&type=code). 🍃 Also some [unfulfilled enhancements in the Issues](https://github.com/garywill/linux-router/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement). Your name can be here!
